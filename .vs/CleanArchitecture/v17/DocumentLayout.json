@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCC4A13-0778-4C23-9304-5C9688E1EC4B}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.persistence\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCC4A13-0778-4C23-9304-5C9688E1EC4B}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73579208-D231-4406-AAFA-F64CE50CA28B}|CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73579208-D231-4406-AAFA-F64CE50CA28B}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCC4A13-0778-4C23-9304-5C9688E1EC4B}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCC4A13-0778-4C23-9304-5C9688E1EC4B}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246B842-CC27-49CF-8C29-1489252C8AD9}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C246B842-CC27-49CF-8C29-1489252C8AD9}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCC4A13-0778-4C23-9304-5C9688E1EC4B}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCC4A13-0778-4C23-9304-5C9688E1EC4B}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCC4A13-0778-4C23-9304-5C9688E1EC4B}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCC4A13-0778-4C23-9304-5C9688E1EC4B}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCC4A13-0778-4C23-9304-5C9688E1EC4B}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.persistence\\cleanarchitecture.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CCC4A13-0778-4C23-9304-5C9688E1EC4B}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\cleanarchitecture.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246B842-CC27-49CF-8C29-1489252C8AD9}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\domain\\cleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C246B842-CC27-49CF-8C29-1489252C8AD9}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\cleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCC4A13-0778-4C23-9304-5C9688E1EC4B}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCC4A13-0778-4C23-9304-5C9688E1EC4B}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246B842-CC27-49CF-8C29-1489252C8AD9}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C246B842-CC27-49CF-8C29-1489252C8AD9}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246B842-CC27-49CF-8C29-1489252C8AD9}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C246B842-CC27-49CF-8C29-1489252C8AD9}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246B842-CC27-49CF-8C29-1489252C8AD9}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C246B842-CC27-49CF-8C29-1489252C8AD9}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246B842-CC27-49CF-8C29-1489252C8AD9}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\domain\\entities\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C246B842-CC27-49CF-8C29-1489252C8AD9}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\entities\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE472671-274D-499E-98BA-D4A2B76CA425}|CleanArchitecture.Tests\\CleanArchitecture.Tests.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE472671-274D-499E-98BA-D4A2B76CA425}|CleanArchitecture.Tests\\CleanArchitecture.Tests.csproj|solutionrelative:cleanarchitecture.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:29:20.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:03:31.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CleanArchitecture.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T23:04:11.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:01:45.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:14:33.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:22:51.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CleanArchitecture.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\Domain\\CleanArchitecture.Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\CleanArchitecture.Domain.csproj",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\Domain\\CleanArchitecture.Domain.csproj",
+              "RelativeToolTip": "Domain\\CleanArchitecture.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T21:52:49.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Persistence\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Persistence\\ServiceExtensions.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:37:10.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecture.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.API\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecture.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T00:42:00.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:13:29.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:24:32.548Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:02:34.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntities.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\Domain\\Entities\\BaseEntities.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntities.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\Domain\\Entities\\BaseEntities.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:55:50.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CleanArchitecture.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:51:05.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
