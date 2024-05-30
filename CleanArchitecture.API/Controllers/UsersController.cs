@@ -1,5 +1,7 @@
 ﻿using CleanArchitecture.Application.UseCases.CreateUser;
+using CleanArchitecture.Application.UseCases.DeleteUser;
 using CleanArchitecture.Application.UseCases.GetAllUser;
+using CleanArchitecture.Application.UseCases.UpdateUser;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -17,6 +19,13 @@ namespace CleanArchitecture.API.Controllers
             _mediator = mediator;
         }
 
+        [HttpGet]
+        public async Task<ActionResult<List<GetAllUserResponse>>> GetAll(CancellationToken cancellationToken)
+        {
+            var response = await _mediator.Send(new GetAllUserRequest(), cancellationToken);
+            return Ok(response);
+        }
+
         [HttpPost]
         public async Task<ActionResult<CreateUserResponse>> Create(CreateUserRequest request, CancellationToken cancellationToken)
         {
@@ -31,10 +40,23 @@ namespace CleanArchitecture.API.Controllers
             return Ok(response);
         }
 
-        [HttpGet]
-        public async Task<ActionResult<List<GetAllUserResponse>>> GetAll(CancellationToken cancellationToken)
+        [HttpPut("{Id}")]
+        public async Task<ActionResult<UpdateUserResponse>> Update(Guid Id, UpdateUserRequest request, CancellationToken cancellationToken)
         {
-            var response = await _mediator.Send(new GetAllUserRequest(), cancellationToken);
+            if (Id != request.Id) return BadRequest();
+
+            var response = await _mediator.Send(request, cancellationToken);
+            return Ok(response);
+        }
+
+        [HttpDelete("{Id}")]
+        public async Task<ActionResult<DeleteUserResponse>> Delete(Guid? Id, CancellationToken cancellationToken)
+        {
+            if (Id  == null) return BadRequest();
+
+            var deleteUserRequest = new DeleteUserRequest(Id.Value);
+
+            var response = await _mediator.Send(deleteUserRequest, cancellationToken);
             return Ok(response);
         }
     }

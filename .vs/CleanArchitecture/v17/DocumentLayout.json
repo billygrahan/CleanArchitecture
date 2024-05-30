@@ -7,28 +7,48 @@
       "RelativeMoniker": "D:0:0:{73579208-D231-4406-AAFA-F64CE50CA28B}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73579208-D231-4406-AAFA-F64CE50CA28B}|CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73579208-D231-4406-AAFA-F64CE50CA28B}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73579208-D231-4406-AAFA-F64CE50CA28B}|CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.api\\extensions\\corspolicyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73579208-D231-4406-AAFA-F64CE50CA28B}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\extensions\\corspolicyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\getalluser\\getalluserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\getalluser\\getalluserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\deleteuser\\deleteusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\deleteuser\\deleteusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\getalluser\\getallusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\getalluser\\getallusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\deleteuser\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\deleteuser\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\shared\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\shared\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\deleteuser\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\deleteuser\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\getalluser\\getalluservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\getalluser\\getalluservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\deleteuser\\deleteuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\deleteuser\\deleteuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\deleteuser\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\deleteuser\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\updateuser\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\updateuser\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\updateuser\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\updateuser\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\updateuser\\updateusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\updateuser\\updateusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\updateuser\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\updateuser\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\updateuser\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\updateuser\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\getalluser\\getalluserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +61,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\services\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\shared\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\shared\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73579208-D231-4406-AAFA-F64CE50CA28B}|CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73579208-D231-4406-AAFA-F64CE50CA28B}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\getalluser\\getalluserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\getalluser\\getalluserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\getalluser\\getallusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\getalluser\\getallusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.application\\usecases\\getalluser\\getalluservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E3D795-1836-437E-B743-1BC304B9F969}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\getalluser\\getalluservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73579208-D231-4406-AAFA-F64CE50CA28B}|CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\billy grahan\\documents\\cleanarchitecture\\cleanarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -68,89 +108,92 @@
               "RelativeDocumentMoniker": "CleanArchitecture.API\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.API\\Controllers\\UsersController.cs",
               "RelativeToolTip": "CleanArchitecture.API\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCUAAAAgAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowDsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T23:28:41.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\Shared\\Behavior\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Shared\\Behavior\\ValidationBehavior.cs",
-              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\Shared\\Behavior\\ValidationBehavior.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Shared\\Behavior\\ValidationBehavior.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "DeleteUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserHandler.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T18:40:30.472Z",
+              "WhenOpened": "2024-05-30T02:28:37.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetAllUserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserResponse.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserResponse.cs",
-              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserResponse.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "DocumentIndex": 2,
+              "Title": "DeleteUserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserMapper.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserMapper.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserMapper.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:07:52.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetAllUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserRequest.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserRequest.cs",
-              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserRequest.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:08:08.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetAllUserMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserMapper.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserMapper.cs",
-              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserMapper.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:08:30.263Z",
+              "WhenOpened": "2024-05-30T02:28:56.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GetAllUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserHandler.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserHandler.cs",
-              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserHandler.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Title": "DeleteUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserRequest.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserRequest.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:08:46.008Z",
+              "WhenOpened": "2024-05-30T02:29:05.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetAllUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserValidator.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserValidator.cs",
-              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserValidator.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABMAAAA",
+              "DocumentIndex": 4,
+              "Title": "DeleteUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserResponse.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:09:00.896Z"
+              "WhenOpened": "2024-05-30T02:29:17.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "DeleteUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserValidator.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\DeleteUser\\DeleteUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:29:58.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserHandler.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:58:32.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CorsPolicyExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.API\\Extensions\\CorsPolicyExtensions.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.API\\Extensions\\CorsPolicyExtensions.cs",
@@ -163,7 +206,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "UpdateUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserValidator.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:59:29.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserResponse.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:07:52.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\Services\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\Services\\ServiceExtensions.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:02:13.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserResponse.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:59:18.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserRequest.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:59:00.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateUserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserMapper.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserMapper.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserMapper.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\UpdateUser\\UpdateUserMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:58:45.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\Shared\\Behavior\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Shared\\Behavior\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\Shared\\Behavior\\ValidationBehavior.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Shared\\Behavior\\ValidationBehavior.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:40:30.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserRequest.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserRequest.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:08:08.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.API\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.API\\Program.cs",
@@ -171,12 +318,47 @@
               "RelativeToolTip": "CleanArchitecture.API\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T23:11:33.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T23:11:33.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
+              "Title": "GetAllUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserValidator.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:09:00.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAllUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserHandler.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:08:46.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetAllUserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserMapper.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserMapper.cs",
+              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserMapper.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\GetAllUser\\GetAllUserMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:08:30.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.API\\appsettings.json",
               "RelativeDocumentMoniker": "CleanArchitecture.API\\appsettings.json",
@@ -185,18 +367,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-28T23:25:11.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\Services\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\ServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\Billy Grahan\\Documents\\CleanArchitecture\\CleanArchitecture.Application\\Services\\ServiceExtensions.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Services\\ServiceExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T23:02:13.992Z"
             }
           ]
         }
